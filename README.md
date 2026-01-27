@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**nikoloz-museliani/nikoloz-museliani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nikolozi 👋
 
-Here are some ideas to get you started:
+## 💻 About Me
+I am a software engineer interested in software development, web technologies, and problem-solving.  
+I enjoy learning new technologies and working on educational and experimental projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Programming Languages: Python, JavaScript, C/C++, C#
+- Web: HTML, CSS, JavaScript, Angular (basic)
+- Tools: Git, GitHub, VS Code
+
+## 🤖 AI Tools I Use
+- ChatGPT – learning, debugging, explanations
+- GitHub Copilot – code suggestions and productivity
+
+
+## 📌 Projects
+My repositories mainly include projects i have create for purpose of learning, some them have been team projects, and there are more yet to be uploaded :)
+
+## 🔗 Links
+- LinkedIn: (https://www.linkedin.com/in/nikolozmuseliani/)
+  
